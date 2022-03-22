@@ -1,4 +1,4 @@
-package com.will.petClinic.model;
+package will.petClinic.model;
 
 import java.time.LocalDate;
 
