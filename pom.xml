@@ -12,7 +12,7 @@
     <version>2.6.3</version>
     <relativePath /> <!-- lookup parent from repository -->
   </parent>
-  <groupId>will.learning</groupId>
+  <groupId>com.will.learning</groupId>
   <artifactId>petClinic</artifactId>
   <version>0.0.2</version>
   <name>petClinic</name>
