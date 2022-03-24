@@ -4,11 +4,11 @@
     <artifactId>will-petclinic</artifactId>
     <groupId>com.will</groupId>
     <version>0.0.2</version>
-    <relativePath />
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>pet-clinic-data</artifactId>
+
   <dependencies>
     <dependency>
       <groupId>org.springframework.boot</groupId>

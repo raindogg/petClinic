@@ -10,7 +10,7 @@
   <artifactId>pet-clinic-web</artifactId>
   <dependencies>
     <dependency>
-      <groupId>will.learning</groupId>
+      <groupId>com.will</groupId>
       <version>0.0.2</version>
       <artifactId>pet-clinic-data</artifactId>
     </dependency>
