@@ -14,7 +14,7 @@
   </parent>
   <groupId>com.will</groupId>
   <artifactId>will-petclinic</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3-SNAPSHOT</version>
   <name>petClinic</name>
   <description>petClinic</description>
   <properties>
