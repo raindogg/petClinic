@@ -3,7 +3,7 @@
   <parent>
     <artifactId>will-petclinic</artifactId>
     <groupId>com.will</groupId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.4-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
@@ -11,7 +11,7 @@
   <dependencies>
     <dependency>
       <groupId>com.will</groupId>
-      <version>0.0.3-SNAPSHOT</version>
+      <version>0.0.4-SNAPSHOT</version>
       <artifactId>pet-clinic-data</artifactId>
     </dependency>
     <dependency>
