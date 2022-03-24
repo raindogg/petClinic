@@ -1,5 +1,5 @@
-will/petClinic/model/Vet.class
-will/petClinic/model/PetType.class
-will/petClinic/model/Owner.class
-will/petClinic/model/Person.class
-will/petClinic/model/Pet.class
+com/will/petClinic/model/Pet.class
+com/will/petClinic/model/Vet.class
+com/will/petClinic/model/PetType.class
+com/will/petClinic/model/Person.class
+com/will/petClinic/model/Owner.class

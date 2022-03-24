@@ -1,5 +1,5 @@
-/Users/bray/projects/training/petClinic/pet-clinic-data/src/main/java/will/petClinic/model/PetType.java
-/Users/bray/projects/training/petClinic/pet-clinic-data/src/main/java/will/petClinic/model/Pet.java
-/Users/bray/projects/training/petClinic/pet-clinic-data/src/main/java/will/petClinic/model/Vet.java
-/Users/bray/projects/training/petClinic/pet-clinic-data/src/main/java/will/petClinic/model/Person.java
-/Users/bray/projects/training/petClinic/pet-clinic-data/src/main/java/will/petClinic/model/Owner.java
+/Users/bray/projects/training/petClinic/pet-clinic-data/src/main/java/com/will/petClinic/model/PetType.java
+/Users/bray/projects/training/petClinic/pet-clinic-data/src/main/java/com/will/petClinic/model/Owner.java
+/Users/bray/projects/training/petClinic/pet-clinic-data/src/main/java/com/will/petClinic/model/Pet.java
+/Users/bray/projects/training/petClinic/pet-clinic-data/src/main/java/com/will/petClinic/model/Person.java
+/Users/bray/projects/training/petClinic/pet-clinic-data/src/main/java/com/will/petClinic/model/Vet.java
