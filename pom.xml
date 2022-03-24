@@ -10,10 +10,10 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>2.6.3</version>
-    <relativePath /> <!-- lookup parent from repository -->
+<!--    <relativePath /> &lt;!&ndash; lookup parent from repository &ndash;&gt;-->
   </parent>
-  <groupId>com.will.learning</groupId>
-  <artifactId>petClinic</artifactId>
+  <groupId>com.will</groupId>
+  <artifactId>will-petclinic</artifactId>
   <version>0.0.2</version>
   <name>petClinic</name>
   <description>petClinic</description>
