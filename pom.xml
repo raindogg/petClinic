@@ -14,7 +14,7 @@
   </parent>
   <groupId>com.will</groupId>
   <artifactId>will-petclinic</artifactId>
-  <version>0.0.4-SNAPSHOT</version>
+  <version>0.0.4</version>
   <name>petClinic</name>
   <description>petClinic</description>
   <properties>
@@ -50,6 +50,6 @@
   </build>
   <scm>
     <developerConnection>scm:git:git://github.com/raindogg/petClinic.git</developerConnection>
-    <tag>will-petclinic-0.0.3</tag>
+    <tag>will-petclinic-0.0.4</tag>
   </scm>
 </project>
