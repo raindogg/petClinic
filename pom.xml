@@ -14,7 +14,7 @@
   </parent>
   <groupId>com.will</groupId>
   <artifactId>will-petclinic</artifactId>
-  <version>0.0.4</version>
+  <version>0.0.6-SNAPSHOT</version>
   <name>petClinic</name>
   <description>petClinic</description>
   <properties>
@@ -44,6 +44,7 @@
         <version>2.5.3</version>
         <configuration>
           <goals>install</goals>
+          <autoVersionSubmodules>true</autoVersionSubmodules>
         </configuration>
       </plugin>
     </plugins>
