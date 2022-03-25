@@ -49,7 +49,7 @@
     </plugins>
   </build>
   <scm>
-    <developerConnection>scm:git:https://github.com/raindogg/petClinic.git</developerConnection>
+    <developerConnection>https://github.com/raindogg/petClinic.git</developerConnection>
     <tag>will-petclinic-0.0.4</tag>
   </scm>
 </project>
